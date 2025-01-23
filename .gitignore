@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /vendor/
 node_modules/
 npm-debug.log
@@ -28,3 +29,22 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+=======
+/node_modules
+/public/hot
+/public/storage
+/public/audios
+/public/traduccion
+/storage/*.key
+/storage/correo/*.csv
+/vendor
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.idea
+.DS_Store
+VoiceToText_Files
+>>>>>>> 1b427a6 (Initial commit)

@@ -1,0 +1,24 @@
+<table id="tableRatingsSbs">
+    <tbody>
+        <tr>
+            <td>
+                @include("validata.reporte-sbs.gui._gui_circle_normal_rating_grid")
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @include("validata.reporte-sbs.gui._gui_circle_lost_rating_grid")
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @include("validata.reporte-sbs.gui._gui_circle_cpp_rating_grid")
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @include("validata.reporte-sbs.gui._gui_circle_uncertain_rating_grid")
+            </td>
+        </tr>
+    </tbody>
+</table>
